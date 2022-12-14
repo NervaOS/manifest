@@ -1,6 +1,4 @@
-## Getting started with NervaOS
-====================
-
+# Getting started with NervaOS
 ![NervaOS](https://github.com/NervaOS/manifest/blob/master/banner.png?raw=true)
 
 # Initialize Local Repository
